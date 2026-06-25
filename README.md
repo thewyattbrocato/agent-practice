@@ -9,3 +9,8 @@ This is my first practice repository for learning agentic engineering workflows 
 - Learn Git and GitHub
 - Build toward a Kun-style agentic engineering workflow
 - Experiment with token-efficient agent tooling
+
+## Current Practice Tasks
+
+- Practice making small Markdown edits
+- Practice reviewing changes with `git diff`
