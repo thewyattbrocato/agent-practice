@@ -1,6 +1,7 @@
 # Agent Practice
 
 This is my first practice repository for learning agentic engineering workflows with WezTerm, tmux, Codex, OpenCode, Neovim, GitHub, and AXI-style tools.
+It is also used to practice isolated Treehouse worktree workflows.
 
 ## Goals
 
