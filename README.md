@@ -14,3 +14,7 @@ This is my first practice repository for learning agentic engineering workflows 
 
 - Practice making small Markdown edits
 - Practice reviewing changes with `git diff`
+
+## Daily Practice Log
+
+- 2026-06-24: Added a small README section and reviewed the change with `git diff`.
