@@ -17,3 +17,14 @@ Print current folder:
 
 ```bash
 pwd
+```
+
+## no-mistakes basics
+
+no-mistakes is a local validation gate.
+
+Normal push:
+
+```bash
+git push origin branch-name
+```
