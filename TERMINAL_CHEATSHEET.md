@@ -17,6 +17,7 @@ Print current folder:
 
 ```bash
 pwd
+```
 
 ## no-mistakes basics
 
@@ -26,3 +27,4 @@ Normal push:
 
 ```bash
 git push origin branch-name
+```
