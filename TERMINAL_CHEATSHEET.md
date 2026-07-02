@@ -19,6 +19,12 @@ Print current folder:
 pwd
 ```
 
+Review your current Git changes:
+
+```bash
+git diff
+```
+
 ## no-mistakes basics
 
 no-mistakes is a local validation gate.
