@@ -15,6 +15,12 @@ This is my first practice repository for learning agentic engineering workflows 
 - Practice making small Markdown edits
 - Practice reviewing changes with `git diff`
 
+## Beginner Workflow Loop
+
+1. Make one small change.
+2. Review it with `git diff`.
+3. Decide whether to keep, revise, or discard the change before moving on.
+
 ## Daily Practice Log
 
 - 2026-06-24: Added a small README section and reviewed the change with `git diff`.
