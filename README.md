@@ -14,6 +14,7 @@ This is my first practice repository for learning agentic engineering workflows 
 
 - Practice making small Markdown edits
 - Practice reviewing changes with `git diff`
+- Use Firstmate as a coordinator for future multi-agent workflows
 
 ## Beginner Workflow Loop
 
