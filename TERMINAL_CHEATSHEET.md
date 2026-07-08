@@ -10,6 +10,7 @@ A beginner reference for working in WezTerm, zsh, tmux, Git, and agentic enginee
 - Git: local version control
 - GitHub: remote hosting for repositories, branches, pull requests, and collaboration
 - Codex/OpenCode: AI coding agents launched from the terminal
+- Firstmate: a coordinator for multi-agent workflows
 
 ## Core navigation
 

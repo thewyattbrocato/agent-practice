@@ -1,6 +1,6 @@
 # Agent Practice
 
-This is my first practice repository for learning agentic engineering workflows with WezTerm, tmux, Codex, OpenCode, Neovim, GitHub, and AXI-style tools.
+This is my first practice repository for learning agentic engineering workflows with WezTerm, tmux, Codex, OpenCode, Firstmate, Neovim, GitHub, and AXI-style tools.
 
 ## Goals
 
@@ -14,6 +14,7 @@ This is my first practice repository for learning agentic engineering workflows 
 
 - Practice making small Markdown edits
 - Practice reviewing changes with `git diff`
+- Use Firstmate as a coordinator for future multi-agent workflows
 
 ## Beginner Workflow Loop
 
